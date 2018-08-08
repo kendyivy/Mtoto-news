@@ -1,0 +1,131 @@
+body{
+  background-color: #ffcc33;
+  width: 1000px;
+  height: 800px;
+}
+.main{
+  width: 1450px;
+  height: 350px;
+  position: relative;
+  left: 10px;
+
+}
+.one{
+  width: 1100px;
+  height:300px;
+  background-color: #000080;
+  position: relative;
+  top:30px;
+  left:60px;
+
+
+
+}
+h1{
+  color: white;
+  position: relative;
+  left:30px;
+}
+.two{
+  position: relative;
+  left:450px;
+  bottom: 215px;
+}
+
+.four{
+  position: relative;
+  bottom:425px;
+  left:800px;
+
+}
+
+.six{
+  position:relative;
+  bottom:370px;
+  left:49px;
+}
+.six p{
+ color:white;
+ font-size: 20px;
+ width:300px; 
+}
+.seven{
+  position: relative;
+  bottom:665px;
+  left: 450px;
+}
+.seven p{
+  color: white;
+  font-size: 20px;
+  width:300px;
+}
+.eight{
+  position: relative;
+  bottom:980px;
+  left:850px;
+}
+.eight p{
+   color:white;
+}
+.nine{
+  position: relative;
+  bottom:900px;
+  left:60px;
+}
+.nine p{
+  color: white;
+  font-size: 20px;
+}
+.ten{
+  position: relative;
+  bottom:1170px;
+  left:465px;
+}
+.ten p{
+  color:white;
+  font-size: 20px;
+}
+.ele{
+  position: relative;
+  bottom:1440px;
+  left:835px;
+}
+.ele p{
+  font-size: 20px;
+  color:white;
+  width: 300px;
+}
+.twel{
+  position: relative;
+  bottom:1300px;
+  left:835px;
+}
+.twel p{
+  color: white;
+  font-size: 20px;
+}
+.thir{
+  position: relative;
+  bottom:1570px;
+  left:455px;
+}
+.thir p{
+   color:white;
+   font-size: 20px;
+   width:300px;
+}
+.fort{
+  position: relative;
+  bottom:1860px;
+  left:80px;
+
+}
+.fort p{
+  color: white;
+}
+.main img{
+  height:360px;
+  width: 1240px;
+  position: relative;
+  right: 15px;
+}
